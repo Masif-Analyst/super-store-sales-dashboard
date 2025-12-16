@@ -1,1 +1,2 @@
-# super-store-sales-dashboard
+ super-store-sales-dashboard
+ Developed an interactive Power BI dashboard to analyze Super Store sales data. The report provides insights into sales, profit, quantity, and delivery performance across categories, sub-categories, regions, states, segments, and ship modes. Implemented YoY monthly sales and profit analysis, payment mode contribution, and region-wise performance to support data-driven business decisions.
